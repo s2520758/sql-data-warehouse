@@ -1,5 +1,5 @@
 ```bash
-data-warehouse-project/
+data-warehouse/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
